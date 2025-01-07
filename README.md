@@ -78,7 +78,7 @@ img.save(save_path, "webp", quality=100, optimize=True)
 
 ## **지원되는 파일 형식**
 
-다음 이미지 형식을 변환할 수 있습니다:
+다음 이미지 형식을 변환할 수 있습니다.
 
 - `.jpg`
 - `.jpeg`
